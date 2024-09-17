@@ -1,0 +1,37 @@
+
+.text-white {
+    color: #fff !important;
+  }
+  
+  .py-3 {
+    padding-top: 1rem !important;
+    padding-bottom: 1rem !important;
+  }
+  
+  .mb-4 {
+    margin-bottom: 1.5rem !important;
+  }
+  
+  
+  /* Footer.css */
+  .footer-container {
+    padding-top: 1rem;
+    padding-bottom: 1rem;
+  }
+  
+  .footer-link {
+    text-decoration: none;
+    color: inherit; /* This will inherit the text color from the parent */
+  }
+  
+  .footer-link:hover {
+    /* text-decoration: underline; Optional: underline on hover */
+    color: #3bb77e;
+  
+  }
+  
+  .footer-logo {
+    max-width: 200px; /* Adjust the max-width as needed */
+    height: auto; /* Ensure the height scales proportionally */
+    margin-bottom: 1rem; /* Optional: space between the logo and the text */
+  }
